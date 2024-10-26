@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/team-vidyutaswa/static/css/main.55b69b6e.css",
+    "main.js": "/team-vidyutaswa/static/js/main.c63abda3.js",
+    "static/js/453.090c0bf1.chunk.js": "/team-vidyutaswa/static/js/453.090c0bf1.chunk.js",
+    "static/media/video.mp4": "/team-vidyutaswa/static/media/video.faef968bc76d60080f48.mp4",
+    "static/media/img.jpg": "/team-vidyutaswa/static/media/img.f5c9392aa03be89fbbe3.jpg",
+    "static/media/Picture1.png": "/team-vidyutaswa/static/media/Picture1.47baaa165002cc5c9d93.png",
+    "static/media/Picture6.jpg": "/team-vidyutaswa/static/media/Picture6.3884f589def9b4ea2d4a.jpg",
+    "static/media/images.png": "/team-vidyutaswa/static/media/images.78b50b9b6c442f88a548.png",
+    "index.html": "/team-vidyutaswa/index.html",
+    "main.55b69b6e.css.map": "/team-vidyutaswa/static/css/main.55b69b6e.css.map",
+    "main.c63abda3.js.map": "/team-vidyutaswa/static/js/main.c63abda3.js.map",
+    "453.090c0bf1.chunk.js.map": "/team-vidyutaswa/static/js/453.090c0bf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b69b6e.css",
+    "static/js/main.c63abda3.js"
+  ]
+}
